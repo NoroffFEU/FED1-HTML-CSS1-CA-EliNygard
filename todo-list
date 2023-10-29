@@ -13,10 +13,8 @@ Dropdown: set max width, size osv
 
 
 /*header*/
-In header: Film categories - caps
-Move banner up behind header
-Navigation: I created two, couldn't figure out if it was possible with one and design them for mobile/desktop - hence they are a bit different. 
-Not sure if his is the best solution. Header and banner inside same element </*header*/>?
+[Navigation: I created two, couldn't figure out if it was possible with one and design them for mobile/desktop - hence they are a bit different.] 
+
 
 
 /*filmlist*/

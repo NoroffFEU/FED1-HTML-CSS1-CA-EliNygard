@@ -11,6 +11,11 @@
         display: none;
     }
 
+    .desktop-label {
+        font-size: 1.2rem;
+        text-transform: uppercase;
+    }
+
     .banner-h1 {
         font-size: 3.5rem;
     }
