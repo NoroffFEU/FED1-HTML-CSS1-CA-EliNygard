@@ -40,4 +40,43 @@
     .filmlist-horror {
         margin: auto;
     }
+
+    .film-grid {
+        display: grid;
+        grid-template-columns: 50% 1fr;
+        gap: 1rem;
+        grid-auto-rows: minmax(auto, auto);
+        margin: auto;
+        max-width: 1440px;
+    }
+    
+    .grid-title {
+        grid-column: 1/-1;
+        grid-row: 1;
+    }
+    
+    .grid-details {
+        grid-column: 1/-1;
+        grid-row: 2;
+    }
+    
+    .grid-icons {
+        grid-column: 1;
+        grid-row: 3;
+    }
+    
+    .grid-synopsis {
+        grid-column: 1;
+        grid-row: 4;
+    }
+    
+    .grid-cta {
+        grid-column: 2;
+        grid-row: 3;
+    }
+    
+    .grid-castcrew {
+        grid-column: 2;
+        grid-row: 4;
+    }
 }
