@@ -1,0 +1,91 @@
+.film-page-main {
+    display: grid;
+    grid-template-columns: 70% 1fr;
+    margin: auto;
+}
+
+/*.film-page-grid {
+    display: grid;
+    grid-column: 1/-1;
+    grid-template-columns: 70% 1fr;
+    grid-template-rows: 1fr 50%;
+    gap: 1rem;
+}*/
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 50% 1fr;
+    gap: 1rem;
+    grid-auto-rows: minmax(auto, auto);
+    margin: auto;
+}
+
+.grid-title {
+    grid-column: 1/-1;
+    grid-row: 1;
+}
+
+.grid-details {
+    grid-column: 1/-1;
+    grid-row: 2;
+}
+
+.grid-icons {
+    grid-column: 1;
+    grid-row: 3;
+}
+
+.grid-synopsis {
+    grid-column: 1;
+    grid-row: 4;
+}
+
+.grid-cta {
+    grid-column: 2;
+    grid-row: 3;
+}
+
+.grid-castcrew {
+    grid-column: 2;
+    grid-row: 4;
+}
+
+.details {
+    display: inline-flex;
+    gap: 1.5rem;
+    padding: 0rem 1rem;
+}
+
+.icons {
+    display: inline-flex;
+    gap: 4rem;
+    padding: 1rem 1rem;
+    color: pink
+}
+
+/*
+.film-page-item {
+    display: grid;
+    grid-column: 1;
+
+
+}
+
+.film-page-item.wide {
+    display: grid;
+    grid-column: span 2;
+
+}
+
+.film-page-item.short {
+    display: grid;
+    grid-column: span 1;
+}*/
+
+
+.title {
+    margin: 0;
+    padding: 1rem;
+    text-align: left;
+}
+
