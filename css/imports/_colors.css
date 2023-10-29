@@ -1,13 +1,3 @@
-/*
---theme-color-light: #fff;
-    --theme-color-dark: #000;
-    --theme-color-blue: #235993;
-
-*/
-
-
-/*font-styles*/
-
 .color-accent {
     color: var(--theme-color-accent);
 }
@@ -22,4 +12,13 @@
 
 .color-blue {
     color: var(--theme-color-blue);
+}
+
+
+.bg-blue {
+    color: var(--bg-color-blue);
+}
+
+.bg-bluegrey {
+    color: var(--bg-color-bluegrey);
 }

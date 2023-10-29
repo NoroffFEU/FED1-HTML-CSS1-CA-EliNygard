@@ -8,9 +8,10 @@
 @import url("/css/_header.css");
 @import url("/css/_banner.css");
 @import url("/css/_buttons.css");
-@import url("/css_dropdown.css");
+@import url("/css/_dropdown.css");
 @import url("/css/_horror.css");
 @import url("/css/_film-selection.css");
+@import url("/css/_footer.css");
 
 
 /*media*/
@@ -37,119 +38,6 @@ a {
 
 
 
-.transparent-header {
-    background: linear-gradient(180deg, rgba(2,0,36,0.7036064425770308) 25%, rgba(26,58,85,0.6811974789915967) 53%, rgba(0,212,255,0) 100%);
-    position: fixed;
-    width: 100%;
-    top: 0;
-    z-index: 10;
-    padding: 0rem;
-    max-height: 4rem;
-}
-
-.header__items {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    padding: 1rem 1.6rem;
-    max-width: 1000px;
-    margin: auto;
-    color: var(--theme-color-light)
-}
-
-.header-right {
-    margin-left: auto;
-    align-content: space-between;
-    display: flex;
-    gap: 2rem;
-    justify-content: flex-end;
-}
-
-.header-left {
-    margin-right: auto;
-    display: flex;
-    justify-content: flex-start;
-}
-
-.header-left,
-.header-center,
-.header-right {
-    flex: 1;
-}
-
-.logo {
-    height: 36px;
-    width: auto;  
-}
-
-
-
-
-
-header nav, h2 {
-    color: #fff;
-    font-size: 1.2rem;
-}
-
-
-
-header nav,
-#menu-checkbox,
-#dekstop-menu-checkbox {
-    display: none;
-}
-
-#menu-checkbox:checked~nav {
-    display: block;
-    z-index: 10;
-}
-
-#dekstop-menu-checkbox:checked~nav {
-    display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
-    z-index: 10;
-}
-
-.nav__desktop {
-    padding-bottom: 14px;
-}
-
-header nav {
-    position: absolute;
-    background-color: #8fb5d3;
-    top: 60px;
-    left: 0px;
-    right: 0px;
-    padding-bottom: 200px;
-    padding-left: 10px;
-}
-
-header nav a {
-    display: block;
-    padding-left: 60rem;
-    font-size: 1rem;
-    text-transform: uppercase;
-    padding: 5px;
-    line-height: 1.4rem;
-}
-
-header nav li {
-    display: block;
-    padding: 20px;
-    text-transform: uppercase;
-    text-decoration: none;
-}
-
-header nav span {
-    padding: 20px;
-    
-}
-
-header nav span a {
-    font-size: 1.3rem;
-}
 
 
 .blue {
@@ -160,26 +48,6 @@ header nav span a {
 
 
 
-footer nav {
-    background-color: #BED5DD; 
-
-}
-
-footer a {
-    color: #000; 
-    text-transform: uppercase;
-    display: inline-block;
-    padding: 1rem; 
-    text-decoration: none; 
-}
-
-.footer-nav {
-    display: flex;
-}
-
-.footer-nav-item {
-    flex: 1 1 25%
-}
 
 
 
@@ -425,6 +293,3 @@ textarea {
     width: 100%;
     object-fit: cover;
 }
-
-
-/*mobile*/
