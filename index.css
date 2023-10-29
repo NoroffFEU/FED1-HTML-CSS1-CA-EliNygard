@@ -1,0 +1,431 @@
+/*fundamental code*/
+@import url("/css/_reset.css");
+@import url("/css/imports/_variables.css");
+@import url("/css/imports/_colors.css");
+@import url("/css/imports/_fonts.css");
+
+/*component specific code*/
+@import url("/css/_header.css");
+@import url("/css/_banner.css");
+@import url("/css/_buttons.css");
+@import url("/css_dropdown.css");
+@import url("/css/_horror.css");
+@import url("/css/_film-selection.css");
+
+
+/*media*/
+@import url("/css/_media.css");
+
+
+
+
+
+
+
+
+
+
+
+a {
+    text-decoration: none;
+}
+
+
+
+
+/*header*/
+
+
+
+.transparent-header {
+    background: linear-gradient(180deg, rgba(2,0,36,0.7036064425770308) 25%, rgba(26,58,85,0.6811974789915967) 53%, rgba(0,212,255,0) 100%);
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 10;
+    color: #8fb5d3;
+    padding: 0rem;
+    max-height: 4rem;
+}
+
+.header__items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 0 1.6rem;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.header-right {
+    margin-left: auto;
+    align-content: space-between;
+    display: flex;
+    gap: 2rem;
+    justify-content: flex-end;
+}
+
+.header-left {
+    margin-right: auto;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.header-left,
+.header-center,
+.header-right {
+    flex: 1;
+}
+
+.logo {
+    height: 30px;
+    width: auto;
+    padding: 1rem;  
+}
+
+
+
+
+
+header nav, h2 {
+    color: #fff;
+    font-size: 1.2rem;
+}
+
+
+
+header nav,
+#menu-checkbox,
+#dekstop-menu-checkbox {
+    display: none;
+}
+
+#menu-checkbox:checked~nav {
+    display: block;
+    z-index: 10;
+}
+
+#dekstop-menu-checkbox:checked~nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    z-index: 10;
+}
+
+.nav__desktop {
+    padding-bottom: 14px;
+}
+
+header nav {
+    position: absolute;
+    background-color: #8fb5d3;
+    top: 60px;
+    left: 0px;
+    right: 0px;
+    padding-bottom: 200px;
+    padding-left: 10px;
+}
+
+header nav a {
+    display: block;
+    padding-left: 60rem;
+    font-size: 1rem;
+    text-transform: uppercase;
+    padding: 5px;
+    line-height: 1.4rem;
+}
+
+header nav li {
+    display: block;
+    padding: 20px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+header nav span {
+    padding: 20px;
+    
+}
+
+header nav span a {
+    font-size: 1.3rem;
+}
+
+
+.blue {
+    color: #235993;
+}
+
+
+
+
+
+footer nav {
+    background-color: #BED5DD; 
+
+}
+
+footer a {
+    color: #000; 
+    text-transform: uppercase;
+    display: inline-block;
+    padding: 1rem; 
+    text-decoration: none; 
+}
+
+.footer-nav {
+    display: flex;
+}
+
+.footer-nav-item {
+    flex: 1 1 25%
+}
+
+
+
+
+
+
+
+
+/*links*/
+
+
+
+header a {
+    color: #fff;
+    padding: 8px;
+}
+
+
+/*banner*/
+
+
+
+/*films in focus home*/
+
+.featured-films-home {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    max-width: 1440px;
+    margin: 50px auto;
+    grid-gap: 10px;
+}
+
+.film-box {
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: inline-flex;
+    flex-direction: column;
+    max-width: 400px;
+}
+
+.myfilms1 {
+    background-image: url(/assets/my_films/01_ardian-lumi-6Woj_wozqmA-unsplash.jpg);
+    background-size: 100%;
+    
+}
+
+.myfilms2 {
+    background-image: url(/assets/my_films/02_lu-quang-do-QY1Lm91bEp4-unsplash.jpg);
+}
+
+.awfilms1 {
+    background-image: url(/assets/my_films/01_ardian-lumi-6Woj_wozqmA-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}
+
+.awfilms2 {
+    background-image: url(/assets/my_films/02_lu-quang-do-QY1Lm91bEp4-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}
+
+.ndfilms1 {
+    background-image: url(/assets/my_films/01_ardian-lumi-6Woj_wozqmA-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}
+
+.whogoesthere {
+    background-image: url(/assets/my_films/02_lu-quang-do-QY1Lm91bEp4-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 1000px;
+}
+
+.newfilms1 {
+    background-image: url(/assets/my_films/01_ardian-lumi-6Woj_wozqmA-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}
+
+.newfilms2 {
+    background-image: url(/assets/my_films/02_lu-quang-do-QY1Lm91bEp4-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}
+
+/* explore films filmpage */
+
+.exfilms1 {
+    background-image: url(/assets/explore_films/01_antoine-barres-o4u8pFwSiQE-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;   
+}
+
+.exfilms2 {
+    background-image: url(/assets/explore_films/02_jan-jakub-nanista-z9hvkSDWMIM-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;   
+}
+
+.exfilms3 {
+    background-image: url(/assets/explore_films/03_annie-spratt-DtryM6WS_Mo-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;   
+}
+
+
+
+
+
+.horror1 {
+    background-image: url(/assets/horror_films/01_annie-spratt-DtryM6WS_Mo-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+
+.title-m {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 1.5rem;
+}
+
+.dir-m {
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 1.2;
+}
+
+.title-s {
+    color:#fff;
+    text-transform: uppercase;
+    font-size: 1.6rem;
+}
+
+.dir-s {
+    color:#fff;
+    text-transform: uppercase;
+}
+
+
+/*film page Who Goes There?*/
+
+.film-page {
+    display: grid;
+    grid-template-columns: 2fr 1.5fr;
+    grid-template-rows: 5fr;
+    gap: 100px;
+}
+
+
+
+.film-icons-cta {
+    grid-column: 1;
+    grid-row: 3;
+    font-size: 2rem;
+    
+    
+}
+
+.film-icons-cta i {
+    display: inline;
+    padding: 20px;
+}
+
+
+.buynow {
+    grid-column: 2;
+    grid-row: 3;
+}
+
+.synopsis {
+    grid-column: 1;
+    grid-row: 4;
+}
+
+.credits {
+    grid-column: 2;
+    grid-row: 4;
+}
+
+.more-films {
+    grid-row: 5;
+}
+
+/* forms */
+
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+    max-width: 221px;
+    margin: 30px auto;
+
+}
+
+input,
+textarea {
+    border: 1px solid #DA4167;
+    border-radius: 3px;
+    margin: 7px 10px 20px 0px;
+    padding: 6px;
+}
+
+label {
+    font-size: 0.8rem;
+}
+
+textarea {
+    min-height: 100px;
+}
+
+.short {
+    width: 50px;
+}
+
+
+/*about/contact SE*/
+
+.content {
+    max-width: 600px;
+    margin: auto;
+    padding: 3.75rem 0.5rem;
+}
+
+.content__heading {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+
+}
+
+.film-link {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+/*mobile*/

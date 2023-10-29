@@ -1,0 +1,121 @@
+/*filmlist page horror*/
+
+.banner-horror {
+    background-image: url(/assets/horror_films/14_matthias-cooper-ObYmRBaMDyg-unsplash.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 6rem;
+}
+
+.banner-horror__content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    top: 4rem;
+    color: var(--theme-color-light);
+}
+
+.horror-h1 {
+    font-size: 1.3rem;
+    margin: auto;
+}
+
+.filmlist-horror {
+    max-width: 1280px;
+    margin: auto;
+}
+
+.filmlist-horror-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+    gap: 1rem;
+    padding: 1rem;
+    margin: auto;
+}
+
+.filmlist-horror-item {
+    width: 100%;
+    height: 100%;
+
+}
+
+.filmlist-horror-item img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+
+
+.films {
+    max-width: 1340px;
+    margin: auto;
+}
+
+.film-list {
+    display: grid;
+    grid-template-columns: 1fra 1fr auto;
+    grid-gap: 5px;
+    
+}
+
+.filmbox-list {
+    width: 413px;
+    height: 240px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+/*.horror1 {
+    background-image: url(/assets/horror_films/01_annie-spratt-DtryM6WS_Mo-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}
+
+.horror2 {
+    background-image: url(/assets/horror_films/02_atharva-lele-GSXHEh-5IMI-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}
+
+.horror3 {
+    background-image: url(/assets/horror_films/03_dima-pechurin-wzrYqX0IQ9A-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}
+
+.horror4 {
+    background-image: url(/assets/horror_films/04_dollar-gill-i8VrGSWlA9g-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}
+
+.horror5 {
+    background-image: url(/assets/horror_films/05_Sc2_Ingrid\ looks\ at\ graves\ 2.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}
+
+.horror6 {
+    background-image: url(/assets/horror_films/06erick-butler-NBl-DLAMYSY-unsplash.jpg);
+    background-repeat: no-repeat;
+    width: 630px;
+    height: 340px;
+}*/

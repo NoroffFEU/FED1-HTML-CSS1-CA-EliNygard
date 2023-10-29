@@ -1,0 +1,56 @@
+NEW DAY
+Home: my films osv
+Dropdown hamburger: left orientation
+Header/footer on all pages. hide on mobile, see on desktop
+Header on mobile pages - copy from index
+
+
+
+/*home*/
+Banner: divide We Connect | Film lovers
+Place button
+Dropdown: set max width, size osv
+
+
+/*header*/
+In header: Film categories - caps
+Move banner up behind header
+Navigation: I created two, couldn't figure out if it was possible with one and design them for mobile/desktop - hence they are a bit different. 
+Not sure if his is the best solution. Header and banner inside same element </*header*/>?
+
+
+/*filmlist*/
+Choose: 
+1-as it is, scaling from 414px
+2-or set the image to be 413x240px and change columns and center grid in @media 
+
+New banner image? Better resolution
+                            
+
+/*film page*/
+Find new icons - make them pink
+ 
+/*footer**/
+greate grid and flex elements
+do I need nav element before div?
+
+
+*create variables
+ - color: main pink and blue
+
+*create animation for buttons
+
+
+LOGO LINK WORKS - CHECK IF THE SAME WORKS FOR FILMBOXES
+
+
+
+
+
+
+
+Who Goes There? Images
+<img src="../assets/wgt/02_Sc22_Poor Ingrid covered in blood_X.jpg" alt="image from the film Who Goes There? Ingrid covered in blood.">
+                <img src="../assets/wgt/03_Sc11_Liv and Ingrid looking 2.jpg" alt="image from the film Who Goes There? Liv and Ingrid are looking at something we can not se.">
+                <img src="../assets/wgt/04_Sc16_Liv hears whistle.jpg" alt="image from the film Who Goes There? Liv hears a whistle.">
+                <img src="../assets/wgt/05_Sc8_Ingrid and Outcast in field.jpg" alt="image from the film Who Goes There? Ingrid and Outcast in a field. Ingrid is pointing a shotgun at him.">

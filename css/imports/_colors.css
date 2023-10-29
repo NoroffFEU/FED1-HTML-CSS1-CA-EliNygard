@@ -1,0 +1,25 @@
+/*
+--theme-color-light: #fff;
+    --theme-color-dark: #000;
+    --theme-color-blue: #235993;
+
+*/
+
+
+/*font-styles*/
+
+.color-accent {
+    color: var(--theme-color-accent);
+}
+
+.color-light {
+    color: var(--theme-color-light);
+}
+
+.color-dark {
+    color: var(--theme-color-drak);
+}
+
+.color-blue {
+    color: var(--theme-color-blue);
+}
