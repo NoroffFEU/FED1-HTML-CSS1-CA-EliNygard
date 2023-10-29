@@ -37,3 +37,16 @@
     margin: auto;
     text-align: center;
 }
+
+.cta-mobile {
+    background-color: var(--theme-color-accent);;
+    color: #fff;
+    font-size: 0.6rem;
+    text-transform: uppercase;
+    text-decoration: none;
+    border-radius: 4px;
+    display: inline-flex;
+    padding: 1rem 1.5rem;
+    border: solid 1px;
+    border-color: var(--theme-color-accent);
+}
