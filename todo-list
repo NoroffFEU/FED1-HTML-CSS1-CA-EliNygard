@@ -1,11 +1,11 @@
 NEW DAY
 Home: my films osv
 Dropdown hamburger: left orientation
+ 
 
 
 
 /*home*/
-Banner: divide We Connect | Film lovers
 Place button
 Dropdown: set max width, size osv
 
@@ -14,6 +14,7 @@ Dropdown: set max width, size osv
 [Navigation: I created two, couldn't figure out if it was possible with one and design them for mobile/desktop - hence they are a bit different.] 
 Gratient smoother
 No gradient on checkout osv - black font
+On mobile: smaller icons, keep this on desktop - move to media
 
 
 
@@ -26,20 +27,15 @@ New banner image? Better resolution
                             
 
 /*film page*/
-Find new icons - make them pink
+(Find new icons)
  
 /*footer**/
 greate grid and flex elements
 do I need nav element before div?
 
 
-*create variables
- - color: main pink and blue
-
-*create animation for buttons
 
 
-LOGO LINK WORKS - CHECK IF THE SAME WORKS FOR FILMBOXES
 
 
 
