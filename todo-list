@@ -6,6 +6,7 @@ Dropdown hamburger: left orientation
 /*buttons.css*/
 gather styles in cta, make adjustment to the others
 - adjust classes cta cta-mobile osv
+- do i even use cta-mobile -desktop?
 
 
 /*home*/

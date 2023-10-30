@@ -2,6 +2,15 @@
     .hide-on-mobile {
         display: none;
     }
+
+    .cta {
+        padding: .6rem 1.5rem;
+        font-size: 0.6rem;
+    }
+
+    .cta:hover {
+        display: none;
+    }
 }
 
 
@@ -121,9 +130,13 @@
     }
 
 
-    /*contact*/
+    /*contact and about*/
     
     .form-wrapper {
         max-width: 20rem;
+    }
+
+    .content__heading {
+        text-align: center;
     }
 }
