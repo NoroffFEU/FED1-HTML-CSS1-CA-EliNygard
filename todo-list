@@ -3,6 +3,9 @@ Home: my films osv
 Dropdown hamburger: left orientation
  
 
+/*buttons.css*/
+gather styles in cta, make adjustment to the others
+- adjust classes cta cta-mobile osv
 
 
 /*home*/
