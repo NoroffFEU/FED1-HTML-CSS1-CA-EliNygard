@@ -5,7 +5,7 @@
 
 .banner-test {
     min-height: 20rem;
-    background-image: url(/assets/banner-horror_matthias-cooper-ObYmRBaMDyg-unsplash.jpg);
+    background-image: url(./assets/banner-horror_matthias-cooper-ObYmRBaMDyg-unsplash.jpg);
     background-size: cover;
 
 }
@@ -22,7 +22,7 @@
 }
 
 .banner {
-    background-image: url(/assets/banner-image_neom-9f7oiGARGIg-unsplash.jpg);
+    background-image: url(../assets/banner-image_neom-9f7oiGARGIg-unsplash.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: bottom;
