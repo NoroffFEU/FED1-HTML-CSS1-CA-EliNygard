@@ -5,7 +5,7 @@
 @import url("./css/imports/_fonts.css");
 
 /*component specific code*/
-@import url("./css/_header.css");
+@import url("../html-css-course-assignment-EliNygard/css/_header.css";
 @import url("./css/_banner.css");
 @import url("./css/_buttons.css");
 @import url("./css/_dropdown.css");
