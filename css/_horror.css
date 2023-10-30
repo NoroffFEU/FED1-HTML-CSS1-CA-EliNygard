@@ -24,7 +24,7 @@
 }
 
 .filmlist-horror {
-    max-width: 1280px;
+    max-width: 1440px;
     margin: auto;
 }
 
@@ -38,13 +38,13 @@
 
 .filmlist-horror-item {
     width: 100%;
-    max-width: 344px;
+    max-width: 433px;
 
 }
 
 .filmlist-horror-item img {
-    height: 100%;
-    width: 100%;
+    height: 204px;
+    width: 433px;
     object-fit: cover;
 }
 
