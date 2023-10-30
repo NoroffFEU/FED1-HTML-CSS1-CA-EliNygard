@@ -27,17 +27,17 @@ header nav,
 
 #dekstop-menu-checkbox:checked~nav {
     display: flex;
-    flex-direction: row;
-    justify-content: flex-start;
+    padding: 2rem;
     z-index: 10;
 }
 
-.nav-dektop {
-    padding-bottom: 14px;
+.nav-desktop {
+    text-align: center;
+    
 }
 
 .nav-mobile {
-    
+    text-align: left;
 }
 
 header nav {
@@ -46,8 +46,9 @@ header nav {
     top: 70px;
     left: 0px;
     right: 0px;
-    padding-bottom: 200px;
-    padding-left: 10px;
+    padding-bottom: 12rem;
+    padding-left: 2rem;
+    width: 100%;
 }
 
 header nav a {
