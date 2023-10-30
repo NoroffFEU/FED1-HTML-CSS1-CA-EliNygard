@@ -1,5 +1,6 @@
-footer nav {
+footer {
     background-color: var(--bg-color-bluegrey);
+    width: 100%;
 
 }
 

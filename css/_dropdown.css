@@ -32,14 +32,18 @@ header nav,
     z-index: 10;
 }
 
-.nav__desktop {
+.nav-dektop {
     padding-bottom: 14px;
+}
+
+.nav-mobile {
+    
 }
 
 header nav {
     position: absolute;
     background-color: var(--bg-color-blue);
-    top: 60px;
+    top: 70px;
     left: 0px;
     right: 0px;
     padding-bottom: 200px;
