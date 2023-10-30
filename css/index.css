@@ -2,7 +2,7 @@
 @import url("_reset.css");
 @import url("imports/_variables.css");
 @import url("imports/_colors.css");
-@import url("./imports/_fonts.css");
+@import url("imports/_fonts.css");
 
 /*component specific code*/
 @import url("_header.css");
