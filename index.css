@@ -1,21 +1,21 @@
 /*fundamental code*/
-@import url("/css/_reset.css");
-@import url("/css/imports/_variables.css");
-@import url("/css/imports/_colors.css");
-@import url("/css/imports/_fonts.css");
+@import url("./css/_reset.css");
+@import url("./css/imports/_variables.css");
+@import url("./css/imports/_colors.css");
+@import url("./css/imports/_fonts.css");
 
 /*component specific code*/
-@import url("/css/_header.css");
-@import url("/css/_banner.css");
-@import url("/css/_buttons.css");
-@import url("/css/_dropdown.css");
-@import url("/css/_horror.css");
-@import url("/css/_filmpage.css");
-@import url("/css/_footer.css");
+@import url("./css/_header.css");
+@import url("./css/_banner.css");
+@import url("./css/_buttons.css");
+@import url("./css/_dropdown.css");
+@import url("./css/_horror.css");
+@import url("./css/_filmpage.css");
+@import url("./css/_footer.css");
 
 
 /*media*/
-@import url("/css/_media.css");
+@import url("./css/_media.css");
 
 
 
