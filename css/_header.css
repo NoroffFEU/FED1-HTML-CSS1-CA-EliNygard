@@ -60,6 +60,11 @@
     justify-content: flex-start;
 }
 
+.header-center {
+    display: flex;
+    justify-content: center;
+}
+
 .header-left,
 .header-center,
 .header-right {
@@ -70,8 +75,6 @@
     height: 36px;
     width: auto;  
 }
-
-
 
 header nav, h2 {
     color: #fff;
