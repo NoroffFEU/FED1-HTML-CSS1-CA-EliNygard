@@ -20,6 +20,15 @@
     max-height: 4rem;
 }
 
+header a {
+    color: #fff;
+    padding: 8px;
+}
+
+a {
+    text-decoration: none;
+}
+
 .light-header {
     background-color: var(--theme-color-light);
 }

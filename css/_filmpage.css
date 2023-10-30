@@ -116,6 +116,49 @@
     grid-column: span 1;
 }*/
 
+/*film page Who Goes There?
 
+.film-page {
+    display: grid;
+    grid-template-columns: 2fr 1.5fr;
+    grid-template-rows: 5fr;
+    gap: 100px;
+}
+
+
+
+.film-icons-cta {
+    grid-column: 1;
+    grid-row: 3;
+    font-size: 2rem;
+    
+    
+}
+
+.film-icons-cta i {
+    display: inline;
+    padding: 20px;
+}
+
+
+.buynow {
+    grid-column: 2;
+    grid-row: 3;
+}
+
+.synopsis {
+    grid-column: 1;
+    grid-row: 4;
+}
+
+.credits {
+    grid-column: 2;
+    grid-row: 4;
+}
+
+.more-films {
+    grid-row: 5;
+}
+*/
 
 

@@ -1,3 +1,18 @@
-* {
-    background-color: blue;
-}
+/*fundamental code*/
+@import url("_reset.css");
+@import url("imports/_variables.css");
+@import url("imports/_colors.css");
+@import url("imports/_fonts.css");
+
+/*component specific code*/
+@import url("_header.css");
+@import url("_banner.css");
+@import url("_buttons.css");
+@import url("_dropdown.css");
+@import url("_horror.css");
+@import url("_filmpage.css");
+@import url("_footer.css");
+@import url("_film-selection.css");
+
+/*media*/
+@import url("_media.css");

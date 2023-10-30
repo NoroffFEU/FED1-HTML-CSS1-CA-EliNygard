@@ -1,0 +1,48 @@
+.content {
+    max-width: 600px;
+    margin: auto;
+    padding: 3.75rem 0.5rem;
+}
+
+.content__heading {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+
+}
+
+.film-link {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+/* forms */
+
+.form-wrapper {
+    display: flex;
+    flex-direction: column;
+    max-width: 221px;
+    margin: 30px auto;
+
+}
+
+input,
+textarea {
+    border: 1px solid #DA4167;
+    border-radius: 3px;
+    margin: 7px 10px 20px 0px;
+    padding: 6px;
+}
+
+label {
+    font-size: 0.8rem;
+}
+
+textarea {
+    min-height: 100px;
+}
+
+.short {
+    width: 50px;
+}
