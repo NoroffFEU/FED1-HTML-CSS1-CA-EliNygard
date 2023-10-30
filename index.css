@@ -1,21 +1,21 @@
 /*fundamental code*/
-@import url("../html-css-course-assignment-EliNygard/css/_reset.css");
-@import url("../html-css-course-assignment-EliNygard/css/imports/_variables.css");
-@import url("../html-css-course-assignment-EliNygard/css/imports/_colors.css");
-@import url("../html-css-course-assignment-EliNygard/css/imports/_fonts.css");
+@import url("./css/_reset.css");
+@import url("./css/imports/_variables.css");
+@import url("./css/imports/_colors.css");
+@import url("./css/imports/_fonts.css");
 
 /*component specific code*/
-@import url("../html-css-course-assignment-EliNygard/css/_header.css");
-@import url("../html-css-course-assignment-EliNygard/css/_banner.css");
-@import url("../html-css-course-assignment-EliNygard/css/_buttons.css");
-@import url("../html-css-course-assignment-EliNygard/css/_dropdown.css");
-@import url("../html-css-course-assignment-EliNygard/css/_horror.css");
-@import url("../html-css-course-assignment-EliNygard/css/_filmpage.css");
-@import url("../html-css-course-assignment-EliNygard/css/_footer.css");
-@import url("../html-css-course-assignment-EliNygard/css/_film-selection.css");
+@import url("./css/_header.css");
+@import url("./css/_banner.css");
+@import url("./css/_buttons.css");
+@import url("./css/_dropdown.css");
+@import url("./css/_horror.css");
+@import url("./css/_filmpage.css");
+@import url("./css/_footer.css");
+@import url("./css/_film-selection.css");
 
 /*media*/
-@import url("../html-css-course-assignment-EliNygard/css/_media.css");
+@import url("./css/_media.css");
 
 
 
