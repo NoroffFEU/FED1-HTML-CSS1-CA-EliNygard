@@ -96,7 +96,6 @@
         display: inline-flex;
         gap: 4rem;
         padding: 1rem 1rem;
-        color: var(--theme-color-accent);
     }
     
     .synopsis {
