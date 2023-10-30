@@ -17,13 +17,15 @@
     color: var(--theme-color-blue);
 }
 
+/*
 .film-link {
     height: 100%;
     width: 100%;
     object-fit: cover;
 }
+*/
 
-/* forms */
+/* contact form */
 
 .form-wrapper {
     display: flex;
@@ -51,3 +53,4 @@ textarea {
 .short {
     width: 50px;
 }
+
