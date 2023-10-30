@@ -30,7 +30,7 @@
 
 .filmlist-horror-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(330px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(433px, 1fr));
     gap: 1rem;
     padding: 1rem;
     margin: auto;
@@ -39,6 +39,7 @@
 .filmlist-horror-item {
     width: 100%;
     max-width: 433px;
+    position: relative;
 
 }
 
@@ -51,7 +52,27 @@
 .filmlist-horror-content {
     color: var(--theme-color-light);
     z-index: 5;
+    position: absolute;
+    bottom: 1rem;
+    padding: 1rem;
 }
+
+.film,
+.director {
+    margin: 0;
+    padding: 0;
+
+}
+.film {
+    font-size: 1.5rem;
+    padding-bottom: .5rem;
+}
+
+.director {
+    font-size: .9rem;
+}
+
+
 
 
 
