@@ -24,6 +24,8 @@
         font-size: 1.4rem;
     }
 
+    /*filmlist*/
+
     .banner-horror{
         min-height: 18rem;
     }
@@ -40,6 +42,9 @@
     .filmlist-horror {
         margin: auto;
     }
+
+
+    /*filmpage*/
 
     .film-grid {
         display: grid;
@@ -113,5 +118,12 @@
         line-height: 1.4rem;
         margin-left: 2rem;
     
+    }
+
+
+    /*contact*/
+    
+    .form-wrapper {
+        max-width: 20rem;
     }
 }

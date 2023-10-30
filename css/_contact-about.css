@@ -2,6 +2,8 @@
     max-width: 600px;
     margin: auto;
     padding: 3.75rem 0.5rem;
+    position: relative;
+    top: 1rem;
 }
 
 .content__heading {
@@ -9,6 +11,10 @@
     font-size: 2rem;
     margin-bottom: 30px;
 
+}
+
+.h2 {
+    color: var(--theme-color-blue);
 }
 
 .film-link {
@@ -22,9 +28,8 @@
 .form-wrapper {
     display: flex;
     flex-direction: column;
-    max-width: 221px;
+    max-width: 13rem;
     margin: 30px auto;
-
 }
 
 input,
