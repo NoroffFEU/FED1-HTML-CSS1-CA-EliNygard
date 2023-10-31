@@ -26,17 +26,23 @@ Dropdown on desktop: new line on dropdown
 Choose: 
 1-as it is, scaling from 414px
 2-or set the image to be 413x240px and change columns and center grid in @media 
+sett h2 på filmtittel, h3 på regissør
 
 New banner image? Better resolution
                             
 
 /*film page*/
 (Find new icons)
+større font på details
+cast/crew bruk h2
  
 /*footer**/
 greate grid and flex elements
 do I need nav element before div?
 
+
+/*buttons*/
+low contrast pink/white. darker pink?
 
 
 
