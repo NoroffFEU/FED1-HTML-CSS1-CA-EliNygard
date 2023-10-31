@@ -2,6 +2,8 @@ NEW DAY
 Home: my films osv
 Dropdown hamburger: left orientation
 Image size on film page and checkout, checkout success
+change file name on wgt images - no space
+contact: name change: section --> div. because there is no h1 in the header
  
 
 /*buttons.css*/
@@ -19,6 +21,7 @@ Dropdown: set max width, size osv
 [Navigation: I created two, couldn't figure out if it was possible with one and design them for mobile/desktop - hence they are a bit different.] 
 Gratient smoother
 Dropdown on desktop: new line on dropdown
+name change: section --> div. because there is no h1 in the header
 
 
 
@@ -34,7 +37,8 @@ New banner image? Better resolution
 /*film page*/
 (Find new icons)
 større font på details
-cast/crew bruk h2
+cast/crew use h2
+name change: section --> div. because there is no h1 in the header
  
 /*footer**/
 greate grid and flex elements
