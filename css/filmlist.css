@@ -30,22 +30,22 @@
 
 .filmlist-horror-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(433px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(344px, 1fr));
     gap: 1rem;
     padding: 1rem;
     margin: auto;
 }
 
 .filmlist-horror-item {
-    width: 100%;
-    max-width: 433px;
+    max-width: 344px;
     position: relative;
+    margin: auto;
 
 }
 
 .filmlist-horror-item img {
-    height: 204px;
-    width: 433px;
+    height: 174px;
+    width: 344px;
     object-fit: cover;
 }
 
@@ -61,15 +61,18 @@
 .director {
     margin: 0;
     padding: 0;
-
+    text-shadow: 1px 1px 8px rgba(0, 0, 0);
 }
+
 .film {
     font-size: 1.5rem;
     padding-bottom: .5rem;
+    
 }
 
 .director {
     font-size: .9rem;
+    
 }
 
 
@@ -77,7 +80,7 @@
 
 
 
-
+/*
 .films {
     max-width: 1340px;
     margin: auto;
