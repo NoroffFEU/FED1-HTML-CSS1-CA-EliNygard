@@ -29,7 +29,6 @@ name change: section --> div. because there is no h1 in the header
 Choose: 
 1-as it is, scaling from 414px
 2-or set the image to be 413x240px and change columns and center grid in @media 
-sett h2 på filmtittel, h3 på regissør
 
 New banner image? Better resolution
                             
