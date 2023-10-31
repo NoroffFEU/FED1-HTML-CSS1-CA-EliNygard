@@ -1,8 +1,13 @@
+.film-selection-container {
+    max-width: 1440px;
+    margin: auto;
+}
+
 .image-scroller {
     display: grid;
     gap: 1rem;
     grid-auto-flow: column;
-    grid-auto-columns: 57%;
+    grid-auto-columns: 46%;
     padding: 1rem;
 
     overflow-x: auto;

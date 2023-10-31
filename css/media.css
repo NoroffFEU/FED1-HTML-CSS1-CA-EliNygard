@@ -40,11 +40,11 @@
     }
 
     .image-scroller {
-        grid-auto-columns: 66%;
+        grid-auto-columns: 47%;
     }
 
     .film-selection-content {
-        margin: 1.5rem;
+        margin: 2rem;
         padding: 0;
     }
     
