@@ -1,5 +1,5 @@
 .film-selection-container {
-    max-width: 1440px;
+    max-width: 1720px;
     margin: auto;
 }
 
@@ -9,18 +9,13 @@
     grid-auto-flow: column;
     grid-auto-columns: 46%;
     padding: 1rem;
-
     overflow-x: auto;
     overscroll-behavior-inline: contain;
 }
 
 .img-element {
     background: var(--theme-color-light);
-    position: relative;
-    /*
-    display: grid;
-    grid-template-rows: 3;     /*use column and rows to place text or flex*/
-    
+    position: relative; 
 }
 
 .film-selection-content {

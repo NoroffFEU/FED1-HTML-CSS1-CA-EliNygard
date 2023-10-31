@@ -1,5 +1,4 @@
 NEW DAY
-Home: my films osv
 Dropdown hamburger: left orientation
 Image size on film page and checkout, checkout success
 change file name on wgt images - no space
@@ -15,6 +14,7 @@ gather styles in cta, make adjustment to the others
 /*home*/
 Place button
 Dropdown: set max width, size osv
+Remove scroll line?
 
 
 /*header*/
@@ -26,11 +26,7 @@ name change: section --> div. because there is no h1 in the header
 
 
 /*filmlist*/
-Choose: 
-1-as it is, scaling from 414px
-2-or set the image to be 413x240px and change columns and center grid in @media 
-
-New banner image? Better resolution
+How can the gap stay the same when moving between screen sizes?
                             
 
 /*film page*/
