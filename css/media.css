@@ -33,6 +33,11 @@
         font-size: 1.4rem;
     }
 
+    /*image scroller*/
+
+    .image-scroller {
+        grid-auto-columns: 66%;
+
     /*filmlist*/
 
     .banner-horror{
