@@ -1,0 +1,34 @@
+.checkout-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1rem;
+    grid-template-rows: 6;
+    margin: auto;
+    max-width: 1440px;
+    text-align: center;
+}
+
+
+.grid-img {
+    grid-column: 1;
+    grid-row: 1;
+}
+
+.grid-img > img {
+    max-width: 78%;
+    margin: 1rem auto;
+    display: flex;
+}
+
+
+.grid-content {
+    grid-column: 1;
+    grid-row: 2;
+}
+
+.flex-center {
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+

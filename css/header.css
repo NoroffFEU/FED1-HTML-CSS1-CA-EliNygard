@@ -18,6 +18,7 @@ a {
 
 .light-header {
     background-color: var(--theme-color-light);
+    position: static;
 }
 
 .transparent-header {

@@ -1,8 +1,9 @@
 NEW DAY
 Dropdown hamburger: left orientation
 Image size on film page and checkout, checkout success
-change file name on wgt images - no space
 contact: name change: section --> div. because there is no h1 in the header
+
+decide on max-width: 1440px or wider 
  
 
 /*buttons.css*/
