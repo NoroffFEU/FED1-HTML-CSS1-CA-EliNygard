@@ -6,7 +6,12 @@
 .content__heading {
     text-align: left;
     margin-bottom: 30px;
+    margin-top: 0;
 
+}
+
+.center-font {
+    text-align: center;
 }
 
 .center-item {

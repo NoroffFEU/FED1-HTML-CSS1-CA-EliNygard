@@ -22,7 +22,7 @@ a {
 }
 
 .transparent-header {
-    background: linear-gradient(180deg, rgba(2,0,36,0.7036064425770308) 25%, rgba(26,58,85,0.6811974789915967) 53%, rgba(0,212,255,0) 100%);
+    background: linear-gradient(180deg, rgba(2,0,36,0.7036064425770308) 5%, rgba(26,58,85,0.6811974789915967) 60%, rgba(0,212,255,0) 100%);
 }
 
 .header__items {

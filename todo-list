@@ -1,9 +1,48 @@
 NEW DAY
-Dropdown hamburger: left orientation
-Image size on film page and checkout, checkout success
+
 contact: name change: section --> div. because there is no h1 in the header
 
 decide on max-width: 1440px or wider 
+
+
+Desktop:
+Contact us center align
+Same on about
+Dropdown - line number 2 with categories. Links on all categories
+Horror bigger font
+Horror: hover on film - darker transition
+Filmpage: smaller film image. Center content. Smaller director/cast. Align button to Director. Align icons. New icons?
+Checkout: center content. Move button Back to left side
+Checkout success: center content. 
+Playwindow: center image
+Banner: adjust font size
+
+Mobile:
+button on blur background under header
+smaller icons in header
+links on all categories in dropdown
+smaller images in horror page - not so wide
+cast/crew less gap
+checkout: center text
+contact us: bigger button
+
+
+MUST FIX: 
+download font family Inter failed
+
+All:
+Header much taller. Create new gradient on website?
+
+
+NOT WORKING PERFECTLY:
+Button in banner when scaling down. Moves down. Try % insted of rem
+Grid on horror page. 2 columns with too much gap
+
+
+IF TIME:
+Image slider/carousel on filmpage. If not: in report: couldt make one I got to function in css
+
+
  
 
 /*buttons.css*/

@@ -18,19 +18,19 @@
 @media only screen and (min-width: 800px) {
 
     h1 {
-        font-size: 3.7rem;
-    }
-    
-    h2 {
         font-size: 2.7rem;
     }
     
+    h2 {
+        font-size: 1.9rem;
+    }
+    
     h3 {
-        font-size: 2rem;
+        font-size: 1.6rem;
     }
     
     p {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
         text-align: left;
     }
 
@@ -76,7 +76,7 @@
 
     .position-cta {
         display: flex;
-        margin: 19rem auto 2rem auto;
+        margin: 10rem auto 2rem auto;
         max-width: 1440px;
     }
 
@@ -226,6 +226,15 @@
     }
 
     .content__heading {
-        text-align: center;
+        text-align: left;
+    }
+
+    .content {
+        margin: 3rem auto 6rem auto;
+        max-width: 850px;
+    }
+
+    .h2 {
+        margin-top: 3rem;
     }
 }
