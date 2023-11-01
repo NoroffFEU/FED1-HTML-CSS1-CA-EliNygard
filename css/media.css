@@ -215,14 +215,26 @@
 
     /*checkout*/
     .form-wrapper-grid {
-        max-width: 20rem;
+        max-width: 90%;
     }
+
+    .content_checkout {
+        margin: 2rem auto;
+        max-width: 450px;
+    }
+
+
 
 
     /*contact and about*/
     
     .form-wrapper {
-        max-width: 20rem;
+        max-width: 100%;
+    }
+
+    .contact-content {
+        max-width: 400px;
+        margin: 3rem auto;
     }
 
     .content__heading {
