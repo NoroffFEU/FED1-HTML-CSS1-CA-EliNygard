@@ -132,6 +132,10 @@
 
     /*filmpage*/
 
+    .film-page-main > img {
+
+    }
+    
     .film-grid {
         display: grid;
         grid-template-columns: 50% 1fr;
