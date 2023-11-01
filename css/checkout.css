@@ -1,10 +1,10 @@
-.checkout {
-    margin: auto;
-    max-width: 1440px;
+.content_checkout {
+    margin: 2rem 1rem;
+    max-width: 600px;
     text-align: center;
 }
 
-.checkout > div > img {
+.content_checkout > div > img {
     max-width: 78%;
     margin: 1rem auto;
     display: flex;

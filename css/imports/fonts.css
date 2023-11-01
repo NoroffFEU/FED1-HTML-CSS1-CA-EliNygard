@@ -19,14 +19,15 @@ h1 {
 }
 
 h2 {
-    font-size: 1rem;
+    font-size: 1.4rem;
 }
 
 h3 {
-    font-size: .9rem;
+    font-size: 1rem;
 }
 
 p {
-    font-size: .7rem;
+    font-size: .9rem;
+    text-transform: none;
 }
 

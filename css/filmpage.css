@@ -4,6 +4,10 @@
     margin: 0;
 }
 
+.film-page-main > img {
+    max-width: 100%;
+}
+
 .img {
     grid-column: 1/4;
 }
