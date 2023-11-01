@@ -1,34 +1,37 @@
-.checkout-grid {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: 1rem;
-    grid-template-rows: 6;
+.checkout {
     margin: auto;
     max-width: 1440px;
     text-align: center;
 }
 
-
-.grid-img {
-    grid-column: 1;
-    grid-row: 1;
-}
-
-.grid-img > img {
+.checkout > div > img {
     max-width: 78%;
     margin: 1rem auto;
     display: flex;
 }
 
+.form-wrapper-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+}
 
-.grid-content {
-    grid-column: 1;
+.form-wide {
+    grid-column: 1/5;
+}
+
+.form-short {
+
+}
+
+.name {
+    grid-row: 1;
+}
+
+.email {
     grid-row: 2;
 }
 
-.flex-center {
-    display: flex;
-    align-items: center;
-    align-content: center;
+.ccnumber {
+    grid-row: 3;
 }
-
