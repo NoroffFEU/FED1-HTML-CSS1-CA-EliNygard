@@ -9,7 +9,7 @@
     src: url("../fonts/Source_Serif_4/static/SourceSerif4-Medium.ttf") format(opentype);
 }
 
-h1, h2, h3, p {
+h1, h2, h3 {
     text-transform: uppercase;
 }
 
@@ -28,7 +28,6 @@ h3 {
 
 p {
     font-size: .9rem;
-    text-transform: none;
     text-align: left;
 }
 
