@@ -29,5 +29,6 @@ h3 {
 p {
     font-size: .9rem;
     text-transform: none;
+    text-align: left;
 }
 
