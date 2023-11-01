@@ -10,7 +10,17 @@
     display: flex;
 }
 
+.mobile-h1 {
+    font-size: 1.7rem;
+}
 
+.mobile-p {
+    font-size: 1.2rem;
+}
+
+.mobile-p-xs {
+    font-size: .8rem;
+}
 
 
 .form-wrapper-grid {

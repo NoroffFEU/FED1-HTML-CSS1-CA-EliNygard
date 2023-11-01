@@ -164,6 +164,11 @@
     
     }
 
+    /*checkout*/
+    .form-wrapper-grid {
+        max-width: 20rem;
+    }
+
 
     /*contact and about*/
     
