@@ -76,7 +76,7 @@
 
     .position-cta {
         display: flex;
-        margin: 10rem auto 2rem auto;
+        margin: 20% auto auto 10%;
         max-width: 1440px;
     }
 
@@ -132,10 +132,9 @@
 
     /*filmpage*/
 
-    .film-page-main > img {
-
+    .filmpage-content {
+        margin: auto auto 10rem auto;
     }
-    
     .film-grid {
         display: grid;
         grid-template-columns: 50% 1fr;
@@ -144,6 +143,7 @@
         margin: auto;
         max-width: 1440px;
     }
+
     
     .grid-title {
         grid-column: 1/-1;
@@ -203,18 +203,28 @@
     .synopsis {
         font-size: 1.2rem;
         line-height: 1.6rem;
-        padding: 0rem 1rem;
+        padding: 0;
+        margin: .8rem 0 0 1rem;
     }
     
     .filmpage-button {
-        margin: 0 0 0 2rem;
+        margin: 1rem;
     }
     
     .castcrew {
         font-size: 1rem;
         line-height: 1.4rem;
-        margin-left: 2rem;
+        margin: 0 auto 0 2rem;
+        padding: 0;
+    }
     
+    .castcrew > h3 {
+        padding: 0;
+        margin: .8rem 0 .5rem 0;
+    }
+    
+    .castcrew > p {
+        margin: 0 auto 1rem 0;
     }
 
     /*checkout*/
