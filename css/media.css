@@ -194,12 +194,11 @@
         font-size: 1.5rem;
     }
     
-/*    .icons-header {
-        display: inline-flex;
-        gap: 4rem;
+   .icons-header {
         padding: 1rem 1rem;
+        font-size: 1.4rem;
     }
-*/    
+    
     .synopsis {
         font-size: 1.2rem;
         line-height: 1.6rem;

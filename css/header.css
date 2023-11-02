@@ -47,7 +47,7 @@ a {
     margin-left: auto;
     align-content: space-between;
     display: flex;
-    gap: 2rem;
+    gap: 1.5rem;
     justify-content: flex-end;
 }
 
@@ -79,5 +79,5 @@ header nav, h2 {
 }
 
 .icons-header {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
 }
