@@ -106,3 +106,17 @@
     margin: 0;
 }
 
+.explore-container {
+    
+}
+
+.explore-flex {
+    display: inline-flex;
+}
+
+.explore-items {
+    max-width: 320px;
+    position: relative;
+    margin: auto;
+}
+
