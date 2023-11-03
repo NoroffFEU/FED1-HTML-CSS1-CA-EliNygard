@@ -16,13 +16,15 @@
     }
 
     .cta {
-        padding: .6rem 4rem;
+        padding: .6rem 2rem;
         font-size: 0.6rem;
     }
 
     .cta:hover {
         display: none;
     }
+
+
 }
 
 
