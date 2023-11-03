@@ -3,6 +3,18 @@
         display: none;
     }
 
+    .button-box {
+        background-color: var(--bg-color-blue);
+        padding: .6rem;
+    }
+
+    .cta-home {
+        font-size: .8rem;
+        padding: .5rem 4rem;
+        max-width: 5rem;
+        margin: auto;
+    }
+
     .cta {
         padding: .6rem 1.5rem;
         font-size: 0.6rem;
