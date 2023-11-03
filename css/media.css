@@ -38,9 +38,9 @@
         display: none;
     }
 
-    .desktop-label {
-        font-size: 1.2rem;
-        text-transform: uppercase;
+    header a:hover, 
+    header a:focus {
+    font-weight: bold;
     }
 
     .banner {
