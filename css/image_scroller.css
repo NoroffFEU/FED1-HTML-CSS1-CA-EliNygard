@@ -68,11 +68,9 @@
     scroll-snap-align: start;
 }
 
-
-
 .film-selection__heading {
     font-size: 1rem;
-    font-weight: 100;
+    font-weight: 300;
     color: var(--theme-color-blue);
     padding: 1rem 1rem 0rem 1rem;
     margin: auto;
