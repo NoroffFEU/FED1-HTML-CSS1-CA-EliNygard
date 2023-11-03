@@ -5,6 +5,13 @@ mobile: smaller images in horror page - not so wide
 explore more films on filmpage
 
 
+CSS DRY:
+
+
+
+HTML DRY all checked
+
+
 Desktop:
 Dropdown - line number 2 with categories. Links on all categories. Klarer ikke å få den ned på ny linje. REPORT
 Horror bigger font
