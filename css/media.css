@@ -24,6 +24,9 @@
         display: none;
     }
 
+    .content {
+        margin: 2rem 1rem;
+    }
 
 }
 
