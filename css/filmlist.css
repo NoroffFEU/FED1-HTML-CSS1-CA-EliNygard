@@ -28,14 +28,14 @@
 
 .filmlist-horror-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(344px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
     gap: 1rem;
     padding: 1rem;
     margin: auto;
 }
 
 .filmlist-horror-item {
-    max-width: 344px;
+    max-width: 320px;
     position: relative;
     margin: auto;
 
@@ -43,7 +43,7 @@
 
 .filmlist-horror-item img {
     height: 174px;
-    width: 344px;
+    width: 320px;
     object-fit: cover;
 }
 

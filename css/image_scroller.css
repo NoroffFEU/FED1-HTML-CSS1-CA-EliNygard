@@ -18,6 +18,17 @@
     position: relative; 
 }
 
+.film-image {
+    background-color: transparent;
+    transition-property: background-color;
+    transition-duration: 1s;
+}
+
+.img-element > a > img:hover {
+    background-color: var(--bg-color-hover);
+    z-index: 10;
+}
+
 .film-selection-content {
     position: absolute;
     bottom: 0;
@@ -26,6 +37,7 @@
     inline-size: 100%;
     margin: .5rem;
     padding: 0;
+
 }
 
 .film-scroller {

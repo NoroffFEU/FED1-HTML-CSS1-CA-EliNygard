@@ -22,3 +22,7 @@
 .bg-bluegrey {
     color: var(--bg-color-bluegrey);
 }
+
+.bg-hover {
+    color: var(--bg-color-hover);
+}
