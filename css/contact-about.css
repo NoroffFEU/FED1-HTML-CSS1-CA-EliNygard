@@ -66,3 +66,7 @@ textarea {
     width: 50px;
 }
 
+:focus, .focus {
+    border: 2px solid #DA4167;
+}
+
