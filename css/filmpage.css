@@ -107,11 +107,12 @@
 }
 
 .explore-container {
-    
+    padding-bottom: 5rem;
 }
 
 .explore-flex {
     display: inline-flex;
+    padding: 1rem 1rem 0rem 1rem;
 }
 
 .explore-items {
@@ -119,4 +120,12 @@
     position: relative;
     margin: auto;
 }
+
+.explore-items img {
+    height: 174px;
+    width: 320px;
+    object-fit: cover;
+}
+
+
 
