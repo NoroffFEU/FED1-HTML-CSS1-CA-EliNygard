@@ -68,5 +68,6 @@ textarea {
 
 .focus:focus {
     border: 2px solid #DA4167;
+    outline: none;
 }
 
