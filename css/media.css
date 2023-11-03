@@ -248,6 +248,7 @@
     .contact-content {
         max-width: 400px;
         margin: 3rem auto;
+        margin-bottom: 5rem;
     }
 
     .content__heading {
