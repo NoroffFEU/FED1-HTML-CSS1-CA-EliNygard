@@ -30,6 +30,7 @@
     border-color: var(--theme-color-light);
     color: var(--theme-color-light);
     border: solid 2px;
+    border-radius: 4px;
     font-size: 1rem;
     font-weight: bold;
     padding: 1rem 5rem;
