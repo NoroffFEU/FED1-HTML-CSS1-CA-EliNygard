@@ -1,27 +1,7 @@
-MUST FIX: 
-button banner home page
-explore more films on filmpage - make slider on mobile, flex on desktop
-smaller imge on film page
-hover filmboxes
-check buy button on filmpage mobile - if it works
-
-
-
-CSS DRY:
-
-
-
-HTML DRY all checked
-
-
 Desktop:
-Dropdown - line number 2 with categories. Links on all categories. Klarer ikke å få den ned på ny linje. REPORT
-Horror bigger font
-Horror: hover on film - darker transition
-Filmpage: smaller film image. Center content. Align icons. New icons? 
+Dropdown - line number 2 with categories. Links on all categories. Klarer ikke å få den ned på ny linje.
+Horror: hover on film - darker transition 
 Checkout: Move button Back to left side
-Playwindow: center image
-Banner: adjust font size
 
 Mobile:
 
@@ -33,16 +13,9 @@ Space before footer
 
 
 NOT WORKING PERFECTLY:
-Button in banner when scaling down. Moves. Landed on % instead of rem. REPORT
+Button in banner when scaling down. Moves. Landed on % instead of rem.
 Grid on horror page. 2 columns with too much gap
 
-
-IF TIME:
-Image slider/carousel on filmpage. If not: in report: couldt make one I got to function in css
-contact: name change: section --> div. because there is no h1 in the header
-
-
- 
 
 /*buttons.css*/
 gather styles in cta, make adjustment to the others
