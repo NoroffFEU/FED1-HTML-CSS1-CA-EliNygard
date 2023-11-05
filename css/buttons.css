@@ -27,18 +27,14 @@
 
 .cta-home {
     background-color: transparent;
-    border-color: #fff;
+    border-color: var(--theme-color-light);
+    color: var(--theme-color-light);
     border: solid 2px;
     font-size: 1rem;
+    font-weight: bold;
     padding: 1rem 5rem;
     min-width: 8rem;
     display: flex;
     align-self: flex-end;
     margin: auto;
-    transition: none;
-    transition-duration: none;
 }
-
-.position-cta > .cta:hover {
-    display: none;
-} 
