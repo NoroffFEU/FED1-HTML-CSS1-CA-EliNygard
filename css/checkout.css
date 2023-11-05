@@ -23,7 +23,6 @@
     font-size: .8rem;
 }
 
-
 .form-wrapper-grid {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr 1fr;
@@ -61,7 +60,6 @@
 .cvc {
     grid-column: 2;
 }
-
 
 .form-wrapper-grid > div > * {
     display: block;
