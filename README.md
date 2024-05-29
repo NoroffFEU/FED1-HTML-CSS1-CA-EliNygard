@@ -1,16 +1,15 @@
-#### FED1 Semester Project 1
-# Tórshavn Science Museum
+#### FED1 HTML & CSS CA
+# Square Eyes
 
-![image](https://i.ibb.co/KzVC9jf/Skjermbilde-2024-05-29-092411.png)
+![image](https://i.ibb.co/fHrC4Zm/Skjermbilde-2024-05-29-095037.png)
 
-[Visit Tórshavn Science Museum](https://norofffeu.github.io/FED1-PE1-EliNygard/index.html)
+[Visit Square Eyes](https://elinygard.github.io/Course-Assignment-SquareEyes/index.html)
 
 ## Description
-This is a blog page for the fictional client Tórshavn Science Museum. 
+This is a web page for the fictional client Square Eyes. A site where you can buy and watch films online. 
 
-The aim was to use the new knowledgde of project planning, web design and development I have learned over the first semester of the Front-end Development studies at Noroff.
+The goal was to put into practice everything I’ve learned about HTML and CSS over this second course at Front-end Developent Studies at Noroff, by bringing my design from the Design CA alive.
 
-To do that, I was "hired" to design and build a modern, accessible and responsive web presence for the client. Images and text was provided. 
 
 #### Info about the client and instructions:
 The museum is opening soon. Its core target audience is primary and middle school children (ages 7-15) and families with young children.
