@@ -6,15 +6,19 @@
 [Visit Square Eyes](https://elinygard.github.io/Course-Assignment-SquareEyes/index.html)
 
 ## Description
-This is a web page for the fictional client Square Eyes. A site where you can buy and watch films online. 
+This is a web page for the fictional client Square Eyes.
 
 The goal was to put into practice everything I’ve learned about HTML and CSS over this second course at Front-end Developent Studies at Noroff, by bringing my design from the Design CA alive.
 
 
 #### Info about the client and instructions:
-The museum is opening soon. Its core target audience is primary and middle school children (ages 7-15) and families with young children.
+Square Eyes is a video streaming website where you can purchase high-quality videos directly from the people who make them. The users of this website want to purchase videos right away, which will allow them to watch it online.
 
-The site should appeal to youngsters without pandering; while aiming at a younger audience it should not patronise them with overtly childish themes. The core purpose of the site is to excite and entice people to visit the museum.
+The website should emphasise that you can easily discover great collections or browse through different categories to find films.
+
+- Slogan: Connecting Film-Lovers
+- Target audiences: Aged 25 to 40 and are interested in cinema. They enjoy watching interesting and high-quality films.
+- Unique selling points: Supporting small filmmakers and discovering interesting films.
 
 ## Built With
 I have used Figma to design the web page, and built it with HTML and CSS.
