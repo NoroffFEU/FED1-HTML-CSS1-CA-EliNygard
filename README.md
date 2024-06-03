@@ -1,3 +1,4 @@
+<a name="readme-top"></a>
 #### FED1 HTML & CSS CA
 # Square Eyes
 
@@ -23,7 +24,7 @@ The website should emphasise that you can easily discover great collections or b
 - Target audiences: Aged 25 to 40 and are interested in cinema. They enjoy watching interesting and high-quality films.
 - Unique selling points: Supporting small filmmakers and discovering interesting films.
 
-<br>
+<p align="right"><a href="#readme-top">⬆️ Back to Top</a></p>
 
 ## Built With
 [<img title="Figma" height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
@@ -56,6 +57,8 @@ To run the app, run the following commands:
 npm run start
 ```
 
+<p align="right"><a href="#readme-top">⬆️ Back to Top</a></p>
+
 ## Contact
 Feel free to contact me
 
@@ -69,4 +72,6 @@ eli.nygard@gmail.com
 I want to thank Oda for testing and reviewing my project.
 
 A huge thank you to my best friend, and film director, Astrid Thorvaldsen for letting me use images and content from her film "Who Goes There?". 
+
+<p align="right"><a href="#readme-top">⬆️ Back to Top</a></p>
 
