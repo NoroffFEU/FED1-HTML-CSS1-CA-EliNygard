@@ -1,10 +1,11 @@
-
 #### FED1 HTML & CSS CA
 # Square Eyes
 
 ![image](https://i.ibb.co/fHrC4Zm/Skjermbilde-2024-05-29-095037.png)
 
 [Visit Square Eyes](https://elinygard.github.io/Course-Assignment-SquareEyes/index.html)
+
+<br>
 
 ## Description
 This is a web page for the fictional client Square Eyes.
@@ -22,9 +23,14 @@ The website should emphasise that you can easily discover great collections or b
 - Target audiences: Aged 25 to 40 and are interested in cinema. They enjoy watching interesting and high-quality films.
 - Unique selling points: Supporting small filmmakers and discovering interesting films.
 
-## Built With
-I have used Figma to design the web page, and built it with HTML and CSS.
+<br>
 
+## Built With
+[<img title="Figma" height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com/)
+[<img title="HTML" height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img title="CSS" height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+<br>
 
 ## Getting Started With the Project
 
@@ -56,6 +62,8 @@ Feel free to contact me
 eli.nygard@gmail.com
 
 [My Linkedin Page](https://www.linkedin.com/in/eli-nyg%C3%A5rd/)
+
+<br>
 
 ## Acknowledgments
 I want to thank Oda for testing and reviewing my project.
