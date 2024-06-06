@@ -2,7 +2,7 @@
 #### FED1 HTML & CSS CA
 # Square Eyes
 
-![image](https://i.ibb.co/fHrC4Zm/Skjermbilde-2024-05-29-095037.png)
+![Screenshot from Square Eyes home page](https://i.ibb.co/fHrC4Zm/Skjermbilde-2024-05-29-095037.png)
 
 [Visit Square Eyes](https://elinygard.github.io/Course-Assignment-SquareEyes/index.html)
 
